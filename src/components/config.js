@@ -6,7 +6,7 @@ const config = {
   */
 
   // 🔐 Passcode Page
-  correctPasscode: "0717", // Change this to any 4-digit code (the passcode for access)
+  correctPasscode: "2601", // Change this to any 4-digit code (the passcode for access)
   passcodeTitle: "Enter Passcode", // Title displayed on the passcode entry page
   successMessage: "Yayy!! :)", // Message shown upon successful passcode entry
   redirectMessage: "Redirecting...", // Message displayed while redirecting after success
@@ -24,7 +24,7 @@ const config = {
   proTip: 'Tip ,as it is: try searching "How long have we been together?" ;)', // Helpful tip for users
 
   // ⏳ Timer Page
-  anniversaryDate: "2025-07-17", // 📅 Set your anniversary date here (used for the timer)
+  anniversaryDate: "2020-07-17", // 📅 Set your anniversary date here (used for the timer)
   timerTitle: "We've been together for:", // Title displayed on the timer page
   timerMessage: "... and still counting babe❤", // Message shown alongside the timer
   timeUnits: {
